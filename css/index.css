@@ -1,0 +1,41 @@
+body{
+    background-color: purple;
+    font-family: 'Times New Roman', Times, serif;
+
+   
+}
+
+h2{
+    color: whitesmoke;
+    margin: 60px;
+    width: max-content;
+    margin-left: 570px;
+}
+form{
+    background-color: plum;
+    color: #100;
+    border-radius: 10px;
+    padding: 60px;
+    margin: 0 auto;
+    width: 330px;
+    height:370px;
+}
+
+input{
+    padding: 7px;
+    border-color: violet;
+    border-style:inset;
+    width: 320px;
+
+}
+
+button{
+    width: 80px;
+    margin-bottom: 70px;
+   margin-left: 120px;
+    border: violet;
+    border-radius: 20px;
+    background-color: white;
+    font-style: inherit;
+    font-weight: 900;
+}
